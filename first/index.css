@@ -7,7 +7,7 @@
 
 }.lefty {
   width: 150px;
-  height: 900px;
+  height: 890px;
   background-color: rgb(175, 173, 173);
   border: 1px;
   float: left;
@@ -17,17 +17,17 @@
 .righty {
   float: right;
   width: 150px;
-  height: 900px;
+  height: 890px;
   background-color: rgb(175, 173, 173);
   border: 1px;
-  position: absolute; top: 100px; right: 0.1px;
+  position: absolute; top: 80px; right: 0.1px;
 }
 
 .bottom {
-  width: 1700px;
-  height: 80px;
+  width: 1605px;
+  height: 120px;
   background-color: rgb(19, 18, 18);
   border: 1px;
-  position: absolute; bottom: 1px; left: 150px;
+  position: absolute; bottom: 0.1px; left: 150px;
 }
 
